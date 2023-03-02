@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Backend", "CSharp-Backend\CSharp-Backend.csproj", "{D3690426-8295-4738-B338-4E00DB7C05A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestAWSUpload", "UnitTestAWSUpload\UnitTestAWSUpload.csproj", "{CF2BB348-9698-40E9-9A8D-0203CDBE33A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3690426-8295-4738-B338-4E00DB7C05A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3690426-8295-4738-B338-4E00DB7C05A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3690426-8295-4738-B338-4E00DB7C05A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3690426-8295-4738-B338-4E00DB7C05A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2BB348-9698-40E9-9A8D-0203CDBE33A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2BB348-9698-40E9-9A8D-0203CDBE33A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2BB348-9698-40E9-9A8D-0203CDBE33A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2BB348-9698-40E9-9A8D-0203CDBE33A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16D3F7B5-64EC-42EE-8988-20D223F232BA}
+	EndGlobalSection
+EndGlobal
